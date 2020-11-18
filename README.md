@@ -17,7 +17,7 @@
  assert_eq!(ema.next(86.54), 85.14259976177978);
  assert_eq!(ema.next(86.89), 85.7250665078532);
 ```
-###Calculation
+### Calculation
 
 ema= (1-k) ema<sub>prev.</sub> + k * input;  
 k=2/(N+1);  
