@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/ema-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/ema-rs)
+
 # Exponential Moving Average (EMA)
 ```
  use ta_common::traits::Indicator;
